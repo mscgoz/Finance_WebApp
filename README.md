@@ -6,9 +6,9 @@ This is my CS50 Finance project that I completed by re-implementing https://fina
 
 In this project, I used Python's framework Flask, HTML, CSS, Bootstrap and for db sqlite3. I implemented this project by using Harvard's CS50 X course. 
 
-Working Principle: After succesfull registeration, symbolic 10.000$ is assigned to the user. 
+Working Principle: After succesful registration, symbolic 10.000$ is assigned to the user. 
 By interacting with IEX (https://www.iexexchange.io/) API's, user can quote, buy and sell stocks.
-Additionally, user have the chance to see the past transactions and able to change their password.
+Additionally, user have the chance to see their portfollio, past transactions and able to change their password.
 
 Here comes the features of each section:
 
